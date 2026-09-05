@@ -14,7 +14,7 @@ The project uses a lightweight causal neural network to suppress background nois
 
 ### Live Demo
 
-**[Try the Web Demo](YOUR_VERCEL_URL)**
+**[Try the Web Demo](https://hearing-aid-denoiser.vercel.app)**
 
 Upload a noisy `.wav`, `.mp3`, or `.m4a` file and process it directly in your browser.
 
