@@ -18,6 +18,12 @@ The project uses a lightweight causal neural network to suppress background nois
 
 Upload a noisy `.wav`, `.mp3`, or `.m4a` file and process it directly in your browser.
 
+
+**Project Architecture**
+
+<img width="6183" height="5175" alt="diagram-2" src="https://github.com/user-attachments/assets/763f32b7-64bc-4c2d-91e3-3194d862ce90" />
+
+
 The browser performs:
 
 ```text
