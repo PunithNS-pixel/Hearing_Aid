@@ -12,6 +12,12 @@ The project uses a lightweight causal neural network to suppress background nois
 
 ## Demo
 
+
+
+https://github.com/user-attachments/assets/492f6c4f-ce19-43ed-893a-04e36da4e1ea
+
+
+
 ### Live Demo
 
 **[Try the Web Demo](https://hearing-aid-denoiser.vercel.app)**
